@@ -43,9 +43,9 @@
 |<ul><li>- [X] Done</li></ul>|36|[Laptops](http://codeforces.com/problemset/problem/456/A)|Codeforces|3|
 |<ul><li>- [X] Done</li></ul>|37|[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|38|[Playing with Dice](http://codeforces.com/problemset/problem/378/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|39|[Minimum Difficulty](http://codeforces.com/problemset/problem/496/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|40|[Greg's Workout](http://codeforces.com/problemset/problem/255/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|41|[Counterexample ](http://codeforces.com/problemset/problem/483/A)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|39|[Minimum Difficulty](http://codeforces.com/problemset/problem/496/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|40|[Greg's Workout](http://codeforces.com/problemset/problem/255/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|41|[Counterexample ](http://codeforces.com/problemset/problem/483/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|42|[Valera and X](http://codeforces.com/problemset/problem/404/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|43|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|44|[Watching a movie](http://codeforces.com/problemset/problem/499/A)|Codeforces|2|
