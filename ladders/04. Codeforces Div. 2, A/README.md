@@ -49,9 +49,9 @@
 |<ul><li>- [X] Done</li></ul>|42|[Valera and X](http://codeforces.com/problemset/problem/404/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|43|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|44|[Watching a movie](http://codeforces.com/problemset/problem/499/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|45|[Supercentral Point](http://codeforces.com/problemset/problem/165/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|46|[Roma and Lucky Numbers](http://codeforces.com/problemset/problem/262/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|47|[Contest](http://codeforces.com/problemset/problem/501/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|45|[Supercentral Point](http://codeforces.com/problemset/problem/165/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|46|[Roma and Lucky Numbers](http://codeforces.com/problemset/problem/262/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|47|[Contest](http://codeforces.com/problemset/problem/501/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|48|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|49|[TL](http://codeforces.com/problemset/problem/350/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|50|[Marks](http://codeforces.com/problemset/problem/152/A)|Codeforces|2|
