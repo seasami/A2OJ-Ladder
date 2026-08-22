@@ -66,11 +66,11 @@
 |<ul><li>- [X] Done</li></ul>|59|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|60|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|61|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|62|[Collecting Beats is Fun](http://codeforces.com/problemset/problem/373/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|63|[Levko and Table](http://codeforces.com/problemset/problem/361/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|64|[Vasya and Digital Root](http://codeforces.com/problemset/problem/355/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|65|[Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|66|[The Child and Homework](http://codeforces.com/problemset/problem/437/A)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|62|[Collecting Beats is Fun](http://codeforces.com/problemset/problem/373/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|63|[Levko and Table](http://codeforces.com/problemset/problem/361/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|64|[Vasya and Digital Root](http://codeforces.com/problemset/problem/355/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|65|[Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|66|[The Child and Homework](http://codeforces.com/problemset/problem/437/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|67|[Soroban](http://codeforces.com/problemset/problem/363/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|68|[Line to Cashier](http://codeforces.com/problemset/problem/408/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|69|[Lever](http://codeforces.com/problemset/problem/376/A)|Codeforces|2|
