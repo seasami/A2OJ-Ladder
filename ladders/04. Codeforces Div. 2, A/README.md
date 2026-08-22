@@ -62,10 +62,10 @@
 |<ul><li>- [X] Done</li></ul>|55|[Fox and Number Game](http://codeforces.com/problemset/problem/389/A)|Codeforces|3|
 |<ul><li>- [X] Done</li></ul>|56|[Giga Tower](http://codeforces.com/problemset/problem/488/A)|Codeforces|3|
 |<ul><li>- [X] Done</li></ul>|57|[Parallelepiped](http://codeforces.com/problemset/problem/224/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|58|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|59|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|60|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|61|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|58|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|59|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|60|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|61|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|62|[Collecting Beats is Fun](http://codeforces.com/problemset/problem/373/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|63|[Levko and Table](http://codeforces.com/problemset/problem/361/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|64|[Vasya and Digital Root](http://codeforces.com/problemset/problem/355/A)|Codeforces|2|
