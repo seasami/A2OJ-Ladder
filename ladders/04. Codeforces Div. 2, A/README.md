@@ -74,14 +74,14 @@
 |<ul><li>- [X] Done</li></ul>|67|[Soroban](http://codeforces.com/problemset/problem/363/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|68|[Line to Cashier](http://codeforces.com/problemset/problem/408/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|69|[Lever](http://codeforces.com/problemset/problem/376/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|70|[Table](http://codeforces.com/problemset/problem/359/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|71|[Eugeny and Array](http://codeforces.com/problemset/problem/302/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|72|[Dima and Continuous Line](http://codeforces.com/problemset/problem/358/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|73|[Reconnaissance 2](http://codeforces.com/problemset/problem/34/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|74|[Help Vasilisa the Wise 2](http://codeforces.com/problemset/problem/143/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|75|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|76|[Palindromic Times](http://codeforces.com/problemset/problem/108/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|77|[Guess a number!](http://codeforces.com/problemset/problem/416/A)|Codeforces|4|
+|<ul><li>- [X] Done</li></ul>|70|[Table](http://codeforces.com/problemset/problem/359/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|71|[Eugeny and Array](http://codeforces.com/problemset/problem/302/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|72|[Dima and Continuous Line](http://codeforces.com/problemset/problem/358/A)|Codeforces|4|
+|<ul><li>- [X] Done</li></ul>|73|[Reconnaissance 2](http://codeforces.com/problemset/problem/34/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|74|[Help Vasilisa the Wise 2](http://codeforces.com/problemset/problem/143/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|75|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|76|[Palindromic Times](http://codeforces.com/problemset/problem/108/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|77|[Guess a number!](http://codeforces.com/problemset/problem/416/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|78|[Exams](http://codeforces.com/problemset/problem/194/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|79|[Card Game](http://codeforces.com/problemset/problem/106/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|80|[Sockets](http://codeforces.com/problemset/problem/257/A)|Codeforces|3|
